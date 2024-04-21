@@ -41,7 +41,17 @@
 
 #### Python:
 
+- <a href="https://github.com/zohdit/feature-map">Feature Maps</a>
+- <a href="https://github.com/zohdit/DeepHyperion">DeepHyperion</a>
+- <a href="https://github.com/zohdit/unboxer">Unboxer</a>
+- <a href="https://github.com/zohdit/DeepAtash">DeepAtash</a>
+- <a href="https://github.com/zohdit/UAV-Testing-Competition">Unmanned Aerial Vehicle Testing Tool</a>
+
+  
 #### Java:
+
+- <a href="https://github.com/zohdit/tagger">Image Tagger</a>
+
 
 #### C#:
 
