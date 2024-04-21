@@ -37,7 +37,13 @@
 
 ![Tahereh Zohdinasab's Stats](https://github-readme-stats.vercel.app/api?username=Zohdit&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+### 💻 Projects
 
+#### Python:
+
+#### Java:
+
+#### C#:
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
